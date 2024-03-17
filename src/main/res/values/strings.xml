@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactsManager</string>
+    <string name="name">Name</string>
+    <string name="email">email</string>
+    <string name="fab_content_description">fab_content_description</string>
+    <string name="add_contact_to_room_db">add contact to ROOM DB</string>
+</resources>
