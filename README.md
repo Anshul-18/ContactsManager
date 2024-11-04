@@ -1,1 +1,2 @@
-For storing information of users offline ROOM database is used.
+For storing contact information of users.
+ROOM database is used.
